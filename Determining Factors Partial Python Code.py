@@ -3,7 +3,7 @@ import math
 # ROBOT COMPONENTS
 h1 = 45
 h2 = 45
-w1 = 45
+w1 = 40
 w2 = 45
 l = 45
 
